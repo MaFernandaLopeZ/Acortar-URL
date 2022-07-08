@@ -6,4 +6,4 @@ Pagina desarrollada con servidor local usando tecnologias como:
 * PostgreSQL como base de datos.
 * Prisma  como ORM para modear la base de datos y realizar las consultas.
 
-@baso en carlosazaustre
+@basado en carlosazaustre
